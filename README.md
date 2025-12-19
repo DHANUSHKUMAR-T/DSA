@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2322-minimum-score-after-removals-on-a-tree](https://github.com/DHANUSHKUMAR-T/DSA/tree/master/2322-minimum-score-after-removals-on-a-tree) |
+| [3480-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/DHANUSHKUMAR-T/DSA/tree/master/3480-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/DHANUSHKUMAR-T/DSA/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 ## Bit Manipulation
 |  |
@@ -35,4 +36,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/DHANUSHKUMAR-T/DSA/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
+## Segment Tree
+|  |
+| ------- |
+| [3480-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/DHANUSHKUMAR-T/DSA/tree/master/3480-maximize-subarrays-after-removing-one-conflicting-pair) |
+## Enumeration
+|  |
+| ------- |
+| [3480-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/DHANUSHKUMAR-T/DSA/tree/master/3480-maximize-subarrays-after-removing-one-conflicting-pair) |
+## Prefix Sum
+|  |
+| ------- |
+| [3480-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/DHANUSHKUMAR-T/DSA/tree/master/3480-maximize-subarrays-after-removing-one-conflicting-pair) |
 <!---LeetCode Topics End-->
