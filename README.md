@@ -17,12 +17,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/DHANUSHKUMAR-T/DSA/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2322-minimum-score-after-removals-on-a-tree](https://github.com/DHANUSHKUMAR-T/DSA/tree/master/2322-minimum-score-after-removals-on-a-tree) |
 | [3480-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/DHANUSHKUMAR-T/DSA/tree/master/3480-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/DHANUSHKUMAR-T/DSA/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/DHANUSHKUMAR-T/DSA/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2322-minimum-score-after-removals-on-a-tree](https://github.com/DHANUSHKUMAR-T/DSA/tree/master/2322-minimum-score-after-removals-on-a-tree) |
 ## Tree
 |  |
@@ -43,9 +45,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/DHANUSHKUMAR-T/DSA/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [3480-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/DHANUSHKUMAR-T/DSA/tree/master/3480-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Prefix Sum
 |  |
 | ------- |
 | [3480-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/DHANUSHKUMAR-T/DSA/tree/master/3480-maximize-subarrays-after-removing-one-conflicting-pair) |
+## Backtracking
+|  |
+| ------- |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/DHANUSHKUMAR-T/DSA/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 <!---LeetCode Topics End-->
