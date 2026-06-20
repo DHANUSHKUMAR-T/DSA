@@ -3,7 +3,7 @@
  * 
  * @param {integer} version number
  * @return {boolean} whether the version is bad
- * isBadVersion = function(version) {
+ * isBadVersion = function(version) { dhanu
  *     ...
  * };
  */
@@ -14,8 +14,8 @@
  */
 var solution = function (isBadVersion) {
     /**
-     * @param {integer} n Total versions
-     * @return {integer} The first bad version
+     * @param {integer} n
+     * @return {integer} 
      */
     return function (n) {
         let first = 1;
