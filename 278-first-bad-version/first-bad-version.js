@@ -1,22 +1,4 @@
-/**
- * Definition for isBadVersion()
- * 
- * @param {integer} version number
- * @return {boolean} whether the version is bad
- * isBadVersion = function(version) { dhanu
- *     ...
- * };
- */
-
-/**
- * @param {function} isBadVersion()
- * @return {function}
- */
 var solution = function (isBadVersion) {
-    /**
-     * @param {integer} n
-     * @return {integer} 
-     */
     return function (n) {
         let first = 1;
         let last = n;
